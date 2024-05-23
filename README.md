@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil  ✭☾🪐
 
-<!--
-**JessieOSouza/JessieOSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jessie
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https:///www.alura.com.br)
+- Estou aprendendo a linguagem JavaScript e Scratch
+- Utilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo📫
+
+00001093011543sp@al.educacao.sp.gov.br
+
+![](https://i.pinimg.com/originals/ca/7c/b5/ca7cb526b8c362367e65b08ffe4fc1ee.gif)
